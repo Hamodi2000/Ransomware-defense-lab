@@ -18,7 +18,7 @@ The lab was built as an offline environment consisting of:
 - VLAN segmentation
 - Wazuh SIEM
 
-![Network Diagram](images/network-diagram.png)
+<img width="4652" height="2612" alt="network-diagram (1)" src="https://github.com/user-attachments/assets/946d829f-a227-43d5-bd88-797e9f098ae7" />
 
 ## Attack Scenarios
 The following attack scenarios were tested:
